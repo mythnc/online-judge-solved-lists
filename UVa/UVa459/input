@@ -1,0 +1,14 @@
+2
+
+E
+AB
+CE
+DB
+EC
+
+E
+AB
+CE
+DB
+EC
+

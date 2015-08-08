@@ -1,0 +1,17 @@
+a BlockMouth 50
+s
+c
+s
+a LeiCha 0
+a RedNose 60
+a Jack 40
+a FatGirl 40
+a Hana 40
+s
+c
+s
+c
+s
+c
+s
+e

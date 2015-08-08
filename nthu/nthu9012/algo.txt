@@ -1,0 +1,9 @@
+偷偷用了strcasestr() XD
+在C++就AC
+在C就Runtime Error
+因為strcasestr是nonstandard extension
+不過只要在第一行加上
+#define _GNU_SOURCE
+就可以了
+
+真是邪惡的偷吃步

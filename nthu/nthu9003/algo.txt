@@ -1,0 +1,2 @@
+大數乘法 + power。
+power利用binary加快運算。

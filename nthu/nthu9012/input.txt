@@ -1,0 +1,13 @@
+2 4
+We can use ctrl + F to search for some string in the article.
+Please find a string appear how many times in the article.
+Article
+2
+4
+A
+3 2
+ZZZZZZZZZZZZZZZZZZZZzzzzzzzzZZZZZZZ
+OAQAOAQAOAOAOAQAQAQAQAOAQAOAOAQAQAQAO
+Qwertyuio;khasdfghjklxcvbjfnqllqefui qiwuehfl qewlhfh iwe
+zz
+OAQ
